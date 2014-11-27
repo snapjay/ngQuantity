@@ -10,7 +10,7 @@ Setup
 1. Get the file
     * Download and copy the  `src/ngQuantity.js` file
 
-2. Include the  `dist/ngQuantity.js` file in your index.html
+2. Include the  `src/ngQuantity.js` file in your index.html
 3. Include add `ngQuantity` as  a dependency in you app
 
 Something like this:
@@ -37,7 +37,7 @@ Something like this:
 
 ## quantity
 
-Renders an 'Add To Cart' Button
+Renders an 'quantity' field
 
 ```
 <quantity  id="amount"
