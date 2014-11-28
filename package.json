@@ -1,12 +1,12 @@
 {
-    "name": "ngCart",
+    "name": "ngQuantity",
     "private": false,
-    "version": "0.0.1",
-    "description": "ngCart",
+    "version": "v0.0.1-rc.01",
+    "description": "AngularJS directive for adding a numeric +/- value",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/snapjay/ngcart.git"
+        "url": "https://github.com/snapjay/ngQuantity.git"
     },
     "path": {
         "app": "app",
