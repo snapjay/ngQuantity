@@ -1,15 +1,11 @@
 {
-  "name": "ngCart",
-  "description": "Shopping Cart built for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/snapjay/ngcart",
+  "name": "ngQuantity",
+  "description": "AngularJS directive for adding a numeric +/- value",
+  "version": "v0.0.1-rc.01",
+  "homepage": "https://github.com/snapjay/ngQuantity",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "angular": "1.2.x",
-    "angular-ui-router": "0.*",
-    "angular-resource": "~1.2.x",
-    "angular-phonecat": "https://github.com/angular/angular-phonecat.git#step-12",
-    "ngcart": "~0.0.1-rc.2"
+    "angular": "1.2.x"
   }
 }
