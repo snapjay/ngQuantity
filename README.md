@@ -4,6 +4,9 @@ ngQuantity
 AngularJS directive that adds a  +/- numeric value changer
 -----------------------------------------------------------------
 
+Demo
+-----
+http://jsfiddle.net/snapjay/30Lcx95o/
 
 Setup
 -----
